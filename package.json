@@ -1,0 +1,17 @@
+{
+  "name": "docx-content-type",
+  "version": "0.0.0",
+  "description": "exports a string, the Content-Type for Microsoft Word .docx files",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/docx-content-type.js",
+  "files": [
+    "index.json"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "defence README.md > index.json"
+  },
+  "devDependencies": {
+    "defence-cli": "^2.0.1"
+  }
+}
