@@ -1,6 +1,6 @@
 {
   "name": "docx-content-type",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "exports a string, the Content-Type for Microsoft Word .docx files",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/docx-content-type.js",
